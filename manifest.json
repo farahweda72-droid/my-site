@@ -1,0 +1,9 @@
+{
+  "name": "دفتر الحسابات",
+  "short_name": "الحسابات",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ee120e",
+  "theme_color": "#ee120e",
+  "orientation": "portrait"
+}
